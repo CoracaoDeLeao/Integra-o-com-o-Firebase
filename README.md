@@ -4,7 +4,15 @@ Este é um projeto Android desenvolvido em Java que oferece funcionalidades de a
 
 <br>
 
+## Autenticação
+[![Login.jpg](https://i.postimg.cc/bw2KbxXd/Login.jpg)](https://postimg.cc/4YsLRhxT)
+[![Cadastro.jpg](https://i.postimg.cc/9Xn8pDY9/Cadastro.jpg)](https://postimg.cc/CdbsMLtM)
+[![Redefinir-senha.jpg](https://i.postimg.cc/MHCY8j9r/Redefinir-senha.jpg)](https://postimg.cc/ctc3R6yQ)
 
+## CRUD
+[![CRUD.jpg](https://i.postimg.cc/3Jhsp48Z/CRUD.jpg)](https://postimg.cc/yWfpCNSJ)
+[![CRUD-Create.jpg](https://i.postimg.cc/d3w57C2k/CRUD-Create.jpg)](https://postimg.cc/sQHYqv0s)
+[![CRUD-Read.jpg](https://i.postimg.cc/cJ3hXhTt/CRUD-Read.jpg)](https://postimg.cc/XZV9vwRn)
 
 ## Funcionalidades
 
@@ -43,7 +51,7 @@ Antes de executar o projeto, certifique-se de ter os seguintes itens instalados:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/CoracaoDeLeao/Integracao-com-o-Firebase.git
 2. Abra o projeto no Android Studio.
 3. Sincronize o Gradle.
 4. Execute o aplicativo em um dispositivo ou emulador.
